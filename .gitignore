@@ -1,0 +1,12 @@
+.env
+*.env
+
+# DATABASE FILES
+*.sql
+hikingdatabase.php
+contact-process.php
+
+.DS_Store
+Thumbs.db
+
+.vscode/
